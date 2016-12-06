@@ -1,10 +1,10 @@
 Package: slowpop
-Title: What the Package Does (one line, title case)
+Title: Slowpop - Individual based population simulation
 Version: 0.0.0.9000
-Authors@R: person("First", "Last", email = "first.last@example.com", role = c("aut", "cre"))
-Description: What the package does (one paragraph).
+Authors@R: person("Martin", "Ryberg", email = "martin.ryberg@ebc.uu.se", role = c("aut", "cre"))
+Description: Simulates one loci in a population.
 Depends: R (>= 3.2.3)
-License: What license is it under?
+License: GPL3
 Encoding: UTF-8
 LazyData: true
 RoxygenNote: 5.0.1.9000
